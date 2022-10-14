@@ -6,6 +6,17 @@ h1 {
   color: darkorange;
   font-size: 32px;
 }
+#wel {
+  padding: 9px 5px 9px 5px;
+  border: 2px double #d7110c;
+  margin: 10px;
+}
+#wel2 {
+  color: aqua;
+  padding: 9px 5px 9px 5px;
+  border: 3px double red;
+  margin: 30px;
+}
 p {
   color: greenyellow;
   font-size: 12px;
